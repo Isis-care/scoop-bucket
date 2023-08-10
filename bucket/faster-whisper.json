@@ -1,9 +1,9 @@
 {
   "hash": "c77cfc92bb342dd6c1d7aff7aff440a3164b2c3b967e4028ecd299d6c08b6081",
-  "version": "0.7.1",
+  "version": "145",
   "extract_dir": "Whisper-Faster",
   "license": "MIT",
   "homepage": "https://github.com/Purfview/whisper-standalone-win",
   "bin": "whisper-faster.exe",
-  "url": "https://github.com/Purfview/whisper-standalone-win/releases/download/faster-whisper-r143/Whisper-Faster_r143.zip"
+  "url": "https://github.com/Purfview/whisper-standalone-win/releases/download/faster-whisper-r145/Whisper-Faster_r145.zip"
 }
